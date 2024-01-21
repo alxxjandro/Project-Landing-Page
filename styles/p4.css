@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto',sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.part-four{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 120px 40px;
+    padding: 40px 100px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: white;
+    gap: 20px;
+}
+
+.text-four{
+    font-weight: lighter;
+}
+
+.p-four{
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.button-four{
+    border: solid 3px white;
+    color: white;
+    padding: 6px 26px;
+    border-radius: 8px;
+    background-color: #3882F6;
+}

@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto',sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.part-three{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 120px 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote{
+    max-width: 800px;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author{
+    align-self: end;
+    font-weight: bold;
+}
